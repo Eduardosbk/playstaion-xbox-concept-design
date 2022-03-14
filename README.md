@@ -1,11 +1,6 @@
 # playstaion-xbox-concept-design
 Practicing html, css and javascript
 
-<h1 align="center">
-    <img alt="GoBarber API" src="https://res.cloudinary.com/lukemorales/image/upload/v1599783084/readme_logos/bancointer_s0x4zc.png" />
-    <br>
-    Banco Inter's Internet Banking Redesign
-</h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/bancointer.svg">
@@ -65,7 +60,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
 
-[ts]: https://www.typescriptlang.org
+[js]: https://www.javascript.org
 [vscode]: https://code.visualstudio.com/
 [yarn]: https://yarnpkg.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
