@@ -17,13 +17,9 @@ Practicing html, css and javascript
   <a href="https://github.com/lukemorales/bancointer/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/bancointer.svg">
   </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/bancointer.svg">
 </p>
 
-<h4 align="center">
-  This is a new version of Banco Inter's Internet Banking inspired by <a href="https://www.linkedin.com/in/vtifoski/">Vinícius Tifoski</a>'s redesign to match the 2020 mobile interface.
-</h4>
+
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
